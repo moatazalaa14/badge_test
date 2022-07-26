@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+body {
+  margin-left: 5px;
+}
 
 .App-logo {
   height: 40vmin;
@@ -27,6 +30,7 @@ h1 {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+ 
 }
 
 .App-link {
