@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import {FacebookShareButton,FacebookIcon , LinkedinShareButton , LinkedinIcon} from "react-share"
 
 
 function App() {
-  function onChange(newValue) {
-    console.log("change", newValue);
-  }
+  
   
   return (
     <div className="App">
